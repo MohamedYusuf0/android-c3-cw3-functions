@@ -1,0 +1,16 @@
+public class Main
+{
+	public static void main(String[] args) {
+		
+	    System.out.println(totalGrade(100, 95));
+	   
+	}
+
+    public static int totalGrade(int firstTerm, int secondTerm){
+        
+        
+        return  firstTerm+secondTerm;
+        
+    }
+
+}
